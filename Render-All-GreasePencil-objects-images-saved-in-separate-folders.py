@@ -1,7 +1,7 @@
 import bpy,os
 
 GPData = "A,B,C" #Name of Grease Pencil Objects
-str_filename = "Counting Numbers"
+str_filename = "Counting Numbers" #Image keyframes naming
 
 filepath = "//"
 abs_filepath = bpy.path.abspath(filepath) # returns the absolute path
