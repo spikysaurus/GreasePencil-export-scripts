@@ -1,5 +1,7 @@
 import bpy,os
 
+#Works in Blender v4.5
+
 GPData = "A,B,C" #Name of Grease Pencil Objects
 str_filename = "Counting Numbers" #Image keyframes naming
 
